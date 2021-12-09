@@ -1,4 +1,5 @@
 # COMP9020
 
-UNSW COMP9020 quiz and assignment and final exam
+UNSW COMP9020 Foundation of science
+quiz and assignment and final exam
 
